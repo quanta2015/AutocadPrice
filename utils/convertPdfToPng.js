@@ -5,7 +5,7 @@ const { exec } = require('child_process');
 // 配置参数
 const INPUT_DIR = '../data/pdf_file'; // 输入目录
 const OUTPUT_DIR = '../data/pdf_img'; // 输出目录
-const DPI = 1500; // 分辨率
+const DPI = 1000; // 分辨率
 const PDF_TO_PPM_CMD = `pdftoppm -png -rx {dpi} -ry ${DPI} {input} {output}`;
 
 // 确保输出目录存在
