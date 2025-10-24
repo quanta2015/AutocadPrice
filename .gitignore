@@ -2,9 +2,13 @@
 **/node_modules/
 **/build
 **/dist
+**/myenv
+
+
 
 # misc
 .DS_Store
 *.zip
 *.lock
 package-lock.json
+
