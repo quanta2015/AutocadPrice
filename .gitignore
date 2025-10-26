@@ -3,10 +3,11 @@
 **/build
 **/dist
 **/myenv
-
+**/exp
 
 
 # misc
+**/.DS_Store
 .DS_Store
 *.zip
 *.lock
