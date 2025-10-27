@@ -11,5 +11,8 @@
 .DS_Store
 *.zip
 *.lock
+*.png
+*.pdf
+*.jpg
 package-lock.json
 
