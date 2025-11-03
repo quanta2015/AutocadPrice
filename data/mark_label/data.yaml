@@ -2,7 +2,7 @@ path: /root/datasets
 train: images/train
 val: images/val
 
-nc: 10
-names: ["L01","L02","L03","L04","L05","SW01","SW02","SW03","ST01","ST02"]
+nc: 20
+names: ["L01","L02","L03","L04","L05","SW01","SW02","SW03","ST01","ST02","ST03","ST04","ST05","SW04","SW05","L06","L07","L08","L09","L10"]
 
 
